@@ -1,0 +1,10 @@
+{
+  "description": "Helps schools manage student records, attendance, classes, staff, and daily operations in one place, giving administrators a clearer view of school activities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

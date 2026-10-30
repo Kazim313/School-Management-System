@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024">
+  <defs>
+    <style>
+      text{font-family:Inter,Arial,sans-serif;fill:#182724}.title{font-weight:700}.muted{fill:#7B8884}.tiny{font-size:11px}.small{font-size:13px}.label{font-size:10px;font-weight:700;letter-spacing:1.5px;fill:#207461}.card{fill:#fff;stroke:#E4EAE7}.nav{font-size:13px;fill:#64736F}.white{fill:#fff}.green{fill:#176B59}
+    </style>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#173D35" flood-opacity=".06"/></filter>
+  </defs>
+  <rect width="1440" height="1024" fill="#F5F7F6"/>
+  <rect width="240" height="1024" fill="#fff"/>
+  <path d="M240 0v1024" stroke="#E5EBE8"/>
+  <rect x="24" y="24" width="40" height="40" rx="12" fill="#176B59"/>
+  <path d="M35 37h18v16H35V37zm2 3h14m-14 4h14" stroke="#fff" fill="none" stroke-width="1.7"/>
+  <text x="76" y="51" font-size="20" font-weight="800">Northstar</text>
+  <text x="30" y="105" class="label" fill="#98A49F">WORKSPACE</text>
+  <g class="nav">
+    <rect x="18" y="122" width="204" height="44" rx="9" fill="#EAF3F0"/><text x="55" y="149" font-weight="700" fill="#145F4F">Dashboard</text><rect x="31" y="137" width="14" height="14" rx="3" fill="none" stroke="#145F4F"/>
+    <text x="55" y="197">Attendance</text><circle cx="38" cy="192" r="8" fill="none" stroke="#64736F"/>
+    <text x="55" y="241">Academics</text><path d="M31 230h15v16H31z" fill="none" stroke="#64736F"/>
+    <text x="55" y="285">Quizzes</text><path d="M32 273h13v16H32z" fill="none" stroke="#64736F"/>
+    <text x="55" y="329">Homework</text><path d="M30 319h17v12H30z" fill="none" stroke="#64736F"/>
+    <text x="55" y="373">Learning games</text><path d="m38 357 3 6 6 .8-4.5 4.3 1 6-5.5-3-5.5 3 1-6-4.5-4.3 6-.8z" fill="none" stroke="#64736F"/>
+    <text x="55" y="417">Reports</text><path d="M31 416v-9m6 9v-15m6 15v-11" fill="none" stroke="#64736F"/>
+    <text x="55" y="461">Safety center</text><path d="m38 446-8 3v5c0 6 4 9 8 11 4-2 8-5 8-11v-5z" fill="none" stroke="#64736F"/>
+  </g>
+  <rect x="18" y="820" width="204" height="126" rx="14" fill="#F0F6F3"/>
+  <circle cx="45" cy="848" r="17" fill="#fff"/><path d="m45 839-8 3v5c0 6 4 9 8 11 4-2 8-5 8-11v-5z" fill="none" stroke="#176B59"/>
+  <text x="34" y="883" class="tiny title">Need support?</text><text x="34" y="903" class="tiny muted">Our school team is here to help.</text><text x="34" y="926" class="tiny green" font-weight="700">Visit help center</text>
+  <rect x="240" y="0" width="1200" height="76" fill="#fff"/><path d="M240 76h1200" stroke="#E5EBE8"/>
+  <rect x="276" y="19" width="390" height="38" rx="9" fill="#F4F6F5"/><circle cx="296" cy="37" r="7" fill="none" stroke="#83908D"/><path d="m301 42 5 5" stroke="#83908D"/><text x="317" y="42" class="tiny muted">Search students, classes, reports...</text>
+  <circle cx="1200" cy="38" r="18" fill="#fff" stroke="#E4E9E7"/><path d="M1195 42h10l-2-3v-4a3 3 0 0 0-6 0v4z" fill="none" stroke="#55645F"/>
+  <rect x="1240" y="18" width="40" height="40" rx="12" fill="#DBEEE7"/><text x="1252" y="42" class="tiny green" font-weight="800">OM</text>
+  <text x="1292" y="34" class="tiny title">Dr. Olivia Martin</text><text x="1292" y="50" font-size="9" class="muted">Principal</text>
+  <text x="276" y="116" class="label">MONDAY, 26 MAY</text><text x="276" y="154" font-size="32" font-weight="800">Good morning, Olivia.</text><text x="276" y="179" class="small muted">Here’s what’s happening across Northstar today.</text>
+  <rect x="1234" y="126" width="170" height="42" rx="10" fill="#176B59"/><text x="1262" y="152" class="small white" font-weight="700">View full report</text>
+  <g filter="url(#shadow)">
+    <rect x="276" y="207" width="267" height="145" rx="14" class="card"/><rect x="294" y="225" width="38" height="38" rx="10" fill="#E5F2ED"/><circle cx="313" cy="244" r="8" fill="none" stroke="#277761"/><text x="345" y="242" class="tiny muted">Attendance</text><text x="294" y="298" font-size="25" class="title">94.6%</text><text x="294" y="320" class="tiny muted">+1.2% from last week</text><rect x="294" y="335" width="231" height="3" rx="2" fill="#EDF1EF"/><rect x="294" y="335" width="218" height="3" rx="2" fill="#377D6B"/>
+    <rect x="557" y="207" width="267" height="145" rx="14" class="card"/><rect x="575" y="225" width="38" height="38" rx="10" fill="#E9EFF9"/><path d="M585 252v-10m9 10v-18m9 18v-14" stroke="#557AB7"/><text x="626" y="242" class="tiny muted">Average score</text><text x="575" y="298" font-size="25" class="title">82.4%</text><text x="575" y="320" class="tiny muted">4.2% above term goal</text><rect x="575" y="335" width="231" height="3" rx="2" fill="#EDF1EF"/><rect x="575" y="335" width="190" height="3" rx="2" fill="#377D6B"/>
+    <rect x="838" y="207" width="267" height="145" rx="14" class="card"/><rect x="856" y="225" width="38" height="38" rx="10" fill="#FAF1DC"/><path d="M867 234h15v19h-15z" fill="none" stroke="#A87823"/><text x="907" y="242" class="tiny muted">Active quizzes</text><text x="856" y="298" font-size="25" class="title">12</text><text x="856" y="320" class="tiny muted">4 due this week</text>
+    <rect x="1119" y="207" width="285" height="145" rx="14" class="card"/><rect x="1137" y="225" width="38" height="38" rx="10" fill="#EEE9F7"/><path d="M1147 239h17v13h-17z" fill="none" stroke="#765DA5"/><text x="1188" y="242" class="tiny muted">Homework</text><text x="1137" y="298" font-size="25" class="title">86%</text><text x="1137" y="320" class="tiny muted">Completion this week</text><rect x="1137" y="335" width="249" height="3" rx="2" fill="#EDF1EF"/><rect x="1137" y="335" width="214" height="3" rx="2" fill="#377D6B"/>
+  </g>
+  <rect x="276" y="368" width="735" height="298" rx="14" class="card"/><text x="298" y="401" class="small title">Academic performance</text><text x="298" y="420" class="tiny muted">Average score across all subjects</text>
+  <g stroke="#EDF1EF"><path d="M337 470h640M337 514h640M337 558h640M337 602h640"/></g>
+  <g fill="#DBE7E3"><rect x="392" y="495" width="15" height="108" rx="4"/><rect x="512" y="510" width="15" height="93" rx="4"/><rect x="632" y="502" width="15" height="101" rx="4"/><rect x="752" y="524" width="15" height="79" rx="4"/><rect x="872" y="488" width="15" height="115" rx="4"/></g>
+  <g fill="#377D6B"><rect x="411" y="480" width="15" height="123" rx="4"/><rect x="531" y="488" width="15" height="115" rx="4"/><rect x="651" y="472" width="15" height="131" rx="4"/><rect x="771" y="500" width="15" height="103" rx="4"/><rect x="891" y="476" width="15" height="127" rx="4"/></g>
+  <g class="tiny muted"><text x="386" y="624">Math</text><text x="497" y="624">Science</text><text x="617" y="624">English</text><text x="737" y="624">History</text><text x="861" y="624">Arts</text></g>
+  <rect x="1025" y="368" width="379" height="298" rx="14" class="card"/><text x="1047" y="401" class="small title">Today’s attendance</text><text x="1047" y="420" class="tiny muted">Across all classes</text>
+  <circle cx="1131" cy="510" r="61" fill="none" stroke="#E9EFED" stroke-width="16"/><circle cx="1131" cy="510" r="61" fill="none" stroke="#377D6B" stroke-width="16" stroke-dasharray="362 383" transform="rotate(-90 1131 510)"/><text x="1099" y="509" font-size="20" class="title">94.6%</text><text x="1112" y="527" class="tiny muted">present</text>
+  <circle cx="1235" cy="478" r="4" fill="#377D6B"/><text x="1247" y="482" class="tiny muted">Present</text><text x="1344" y="482" class="tiny title">768</text><circle cx="1235" cy="510" r="4" fill="#DD7A70"/><text x="1247" y="514" class="tiny muted">Absent</text><text x="1350" y="514" class="tiny title">28</text><circle cx="1235" cy="542" r="4" fill="#E3B75F"/><text x="1247" y="546" class="tiny muted">Late</text><text x="1350" y="546" class="tiny title">16</text>
+  <rect x="1047" y="600" width="335" height="38" rx="8" fill="#EDF5F2"/><text x="1145" y="624" class="tiny green" font-weight="700">View attendance details</text>
+  <rect x="276" y="680" width="735" height="194" rx="14" class="card"/><text x="298" y="714" class="small title">Today at Northstar</text><text x="298" y="733" class="tiny muted">Upcoming classes and tasks</text>
+  <g class="tiny"><text x="299" y="774" class="muted">09:00</text><circle cx="360" cy="770" r="4" fill="#5A84BF"/><text x="379" y="768" class="title">Science quiz</text><text x="379" y="785" class="muted">Grade 8B • Room 204</text><text x="299" y="826" class="muted">11:30</text><circle cx="360" cy="822" r="4" fill="#8367AD"/><text x="379" y="820" class="title">Faculty review</text><text x="379" y="837" class="muted">Conference room A</text></g>
+  <rect x="1025" y="680" width="379" height="194" rx="14" class="card"/><text x="1047" y="714" class="small title">Safety &amp; wellbeing</text><text x="1047" y="733" class="tiny muted">Live monitoring overview</text>
+  <rect x="1047" y="751" width="335" height="42" rx="9" fill="#F7F9F8"/><circle cx="1070" cy="772" r="13" fill="#E3F0EB"/><text x="1093" y="769" class="tiny title">Cybersecurity</text><text x="1093" y="784" font-size="9" class="muted">All systems protected</text><text x="1339" y="776" font-size="9" fill="#377D6B">Secure</text>
+  <rect x="1047" y="801" width="335" height="42" rx="9" fill="#F7F9F8"/><circle cx="1070" cy="822" r="13" fill="#F6ECD7"/><text x="1093" y="819" class="tiny title">Mobile usage</text><text x="1093" y="834" font-size="9" class="muted">Daily school average</text><text x="1330" y="826" font-size="9">1h 42m</text>
+  <rect x="276" y="890" width="1128" height="110" rx="14" fill="#174F46"/><text x="299" y="918" class="label" fill="#BAD980">LEARNING STREAK</text><text x="299" y="947" font-size="19" font-weight="700" fill="#fff">Curiosity is on a roll</text><text x="299" y="970" class="tiny" fill="#C7D8D4">Students completed 328 learning challenges this week — a new school record.</text>
+  <circle cx="1320" cy="945" r="40" fill="#FFFFFF10"/><text x="1305" y="946" font-size="25" font-weight="800" fill="#fff">7</text><text x="1297" y="964" font-size="9" fill="#C7D8D4">day streak</text>
+</svg>
